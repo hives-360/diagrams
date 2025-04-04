@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.5">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="3092" dy="1513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="2573" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -763,13 +763,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVjwbP6CyAjJH22LXjCH-101" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span class=&quot;hljs-meta&quot;&gt;&lt;span class=&quot;hljs-params&quot;&gt;&lt;span class=&quot;hljs-string&quot;&gt;GET /api/v1/preferences&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1254" y="5897" width="513" height="60" as="geometry" />
+          <mxGeometry x="-1248" y="5880" width="513" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVjwbP6CyAjJH22LXjCH-102" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1251" y="6315" width="99" height="34" as="geometry" />
+          <mxGeometry x="-1245" y="6298" width="99" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZVjwbP6CyAjJH22LXjCH-103" value="{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;preferences&quot;: {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;language&quot;: &quot;en&quot;, //ar or en&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;push_notifications&quot;: true,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;in_app_recommendations&quot;: true&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1245" y="6393" width="412" height="211" as="geometry" />
+          <mxGeometry x="-1239" y="6376" width="412" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-104" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span class=&quot;hljs-meta&quot;&gt;&lt;span class=&quot;hljs-params&quot;&gt;&lt;span class=&quot;hljs-string&quot;&gt;PUT /api/v1/preferences&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-641" y="5876" width="513" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-105" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-638" y="6294" width="99" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-106" value="{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;preferences&quot;: {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;language&quot;: &quot;en&quot;, //ar or en&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;push_notifications&quot;: true,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;in_app_recommendations&quot;: true&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-632" y="6372" width="412" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-107" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-648" y="5991" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-108" value="{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;preferences&quot;: {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;language&quot;: &quot;en&quot;, //ar or en&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;push_notifications&quot;: true,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;in_app_recommendations&quot;: true&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-641" y="6054" width="412" height="211" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
