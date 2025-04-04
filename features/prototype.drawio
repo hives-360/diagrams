@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.5">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="3635" dy="1918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="2916" dy="1382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -675,22 +675,49 @@
           <mxGeometry x="-1282" y="2434" width="357" height="101" as="geometry" />
         </mxCell>
         <mxCell id="KTboP9zMvcxSnEJ-1MEK-1" value="{&lt;br&gt;&amp;nbsp; &quot;apiary_type&quot;: &quot;APIARY&quot;,&amp;nbsp; // or &quot;FLOWERING_SITE&quot;, based on the UI&lt;br&gt;&amp;nbsp; &quot;name&quot;: &quot;My Awesome Apiary&quot;,&lt;br&gt;&amp;nbsp; &quot;date_of_establishment&quot;: &quot;2024-01-20&quot;,&lt;br&gt;&amp;nbsp; &quot;environment_type&quot;: &quot;RURAL&quot;,&amp;nbsp; // or &quot;SUBURBAN&quot;, &quot;URBAN&quot;&lt;br&gt;&amp;nbsp; &quot;address_name&quot;: &quot;Jenin, Palestine...&quot;,&lt;br&gt;&amp;nbsp; &quot;longitude&quot;: -81.17545679,&lt;br&gt;&amp;nbsp; &quot;latitude&quot;: 36.1325856&lt;br&gt;&amp;nbsp; // master_node_id is implicitly set by the API call&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;rounded=1;spacing=20;" parent="1" vertex="1">
-          <mxGeometry x="-671" y="2768" width="429" height="192" as="geometry" />
+          <mxGeometry x="-667.5" y="2798" width="429" height="192" as="geometry" />
         </mxCell>
         <mxCell id="KTboP9zMvcxSnEJ-1MEK-2" value="{&lt;br&gt;&amp;nbsp; &quot;id&quot;: 123,&amp;nbsp; // The newly created apiary ID&lt;br&gt;&amp;nbsp; &quot;master_node_id&quot;: 1,&lt;br&gt;&amp;nbsp; &quot;apiary_type&quot;: &quot;APIARY&quot;,&lt;br&gt;&amp;nbsp; &quot;name&quot;: &quot;My Awesome Apiary&quot;,&lt;br&gt;&amp;nbsp; &quot;date_of_establishment&quot;: &quot;2024-01-20&quot;,&lt;br&gt;&amp;nbsp; &quot;environment_type&quot;: &quot;RURAL&quot;,&lt;br&gt;&amp;nbsp; &quot;address_name&quot;: &quot;Jenin, Palestine...&quot;,&lt;br&gt;&amp;nbsp; &quot;longitude&quot;: -81.17545679,&lt;br&gt;&amp;nbsp; &quot;latitude&quot;: 36.1325856&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;rounded=1;spacing=20;" parent="1" vertex="1">
-          <mxGeometry x="-661" y="3052" width="274" height="206" as="geometry" />
+          <mxGeometry x="-657.5" y="3082" width="274" height="206" as="geometry" />
         </mxCell>
         <mxCell id="KTboP9zMvcxSnEJ-1MEK-3" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-671" y="3006" width="99" height="34" as="geometry" />
+          <mxGeometry x="-667.5" y="3036" width="99" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KTboP9zMvcxSnEJ-1MEK-4" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-664" y="2710" width="85" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="KTboP9zMvcxSnEJ-1MEK-5" value="POST&amp;nbsp;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3439236340-0&quot;&gt;&lt;pre&gt;&lt;code&gt;/api/v1/apiaries&lt;/code&gt;&lt;/pre&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3439236340-0&quot;&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3439236340-0&quot;&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;rounded=1;spacing=20;" parent="1" vertex="1">
-          <mxGeometry x="-671" y="2443" width="169" height="101" as="geometry" />
+          <mxGeometry x="-660.5" y="2740" width="85" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KTboP9zMvcxSnEJ-1MEK-11" value="&lt;div&gt;Logic changes:&lt;/div&gt;&lt;div&gt;validations:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1276" y="2554" width="99" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-2" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;pre&gt;&lt;code&gt;{&lt;br&gt;    &lt;span class=&quot;hljs-string&quot;&gt;&quot;message&quot;&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot;&gt;&quot;SUCCESS&quot;&lt;/span&gt;&lt;br&gt;}&lt;/code&gt;&lt;/pre&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;rounded=1;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="259" y="2841" width="227" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-3" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="249" y="2795" width="99" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-4" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="243" y="2732" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-6" value="{&lt;br&gt;&amp;nbsp; &quot;apiary_type&quot;: &quot;APIARY&quot;,&amp;nbsp; // or &quot;FLOWERING_SITE&quot;, based on the UI&lt;br&gt;&amp;nbsp; &quot;name&quot;: &quot;My Awesome Apiary&quot;,&lt;br&gt;&amp;nbsp; &quot;date_of_establishment&quot;: &quot;2024-01-20&quot;,&lt;br&gt;&amp;nbsp; &quot;environment_type&quot;: &quot;RURAL&quot;,&amp;nbsp; // or &quot;SUBURBAN&quot;, &quot;URBAN&quot;&lt;br&gt;&amp;nbsp; &quot;address_name&quot;: &quot;Jenin, Palestine...&quot;,&lt;br&gt;&amp;nbsp; &quot;longitude&quot;: -81.17545679,&lt;br&gt;&amp;nbsp; &quot;latitude&quot;: 36.1325856&lt;br&gt;&amp;nbsp; // master_node_id is implicitly set by the API call&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;rounded=1;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="-204" y="2798" width="429" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-7" value="{&lt;br&gt;&amp;nbsp; &quot;id&quot;: 123,&amp;nbsp; // The newly created apiary ID&lt;br&gt;&amp;nbsp; &quot;master_node_id&quot;: 1,&lt;br&gt;&amp;nbsp; &quot;apiary_type&quot;: &quot;APIARY&quot;,&lt;br&gt;&amp;nbsp; &quot;name&quot;: &quot;My Awesome Apiary&quot;,&lt;br&gt;&amp;nbsp; &quot;date_of_establishment&quot;: &quot;2024-01-20&quot;,&lt;br&gt;&amp;nbsp; &quot;environment_type&quot;: &quot;RURAL&quot;,&lt;br&gt;&amp;nbsp; &quot;address_name&quot;: &quot;Jenin, Palestine...&quot;,&lt;br&gt;&amp;nbsp; &quot;longitude&quot;: -81.17545679,&lt;br&gt;&amp;nbsp; &quot;latitude&quot;: 36.1325856&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;rounded=1;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="3082" width="274" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-8" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-204" y="3036" width="99" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-9" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-197" y="2740" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-12" value="POST&amp;nbsp; &lt;code&gt;/api/v1/apiaries&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-662.71" y="2574" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-13" value="PUT&amp;nbsp; &lt;code&gt;/api/v1/apiaries/&amp;lt;int:apiary_id&amp;gt;&lt;/code&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3439236340-0&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-213.00000000000006" y="2577" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVjwbP6CyAjJH22LXjCH-14" value="DELETE&amp;nbsp; &lt;code&gt;/api/v1/apiaries/&amp;lt;int:apiary_id&amp;gt;&lt;/code&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c3439236340-0&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231.99999999999994" y="2574" width="396" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
