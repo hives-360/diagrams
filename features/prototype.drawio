@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="2744" dy="1444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="2903" dy="1667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1237,7 +1237,7 @@
         <mxCell id="bLYka26xXfPDS_lefrwr-12" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-495.32" y="9113" width="99" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="bLYka26xXfPDS_lefrwr-13" value="{&lt;br&gt;&amp;nbsp; &quot;type&quot;: &quot;OTHER&quot;,&lt;br&gt;&amp;nbsp; &quot;title&quot;: &quot;do an inspection&quot;,&lt;br&gt;&amp;nbsp; &quot;date&quot;: &quot;2025-01-01&quot;,&lt;br&gt;&amp;nbsp; &quot;repeatability&quot;: &quot;DAILY&quot;,&lt;br&gt;&amp;nbsp; &quot;note&quot;: &quot;inspect each card&quot;,&lt;br&gt;&amp;nbsp; &quot;apiary_id&quot;: 2,&lt;br&gt;&amp;nbsp; &quot;hive_id&quot;: 3&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="bLYka26xXfPDS_lefrwr-13" value="{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;id&quot;: 4,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;type&quot;: &quot;OTHER&quot;,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;title&quot;: &quot;do an inspection&quot;,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;date&quot;: &quot;2025-01-01&quot;,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;repeatability&quot;: &quot;DAILY&quot;,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;note&quot;: &quot;inspect each card&quot;,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;apiary_id&quot;: 2,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;hive_id&quot;: 3&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-489.71" y="9170" width="388" height="208" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-14" value="&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;pre&gt;&lt;code&gt;&lt;span class=&quot;hljs-meta&quot;&gt;&lt;span class=&quot;hljs-params&quot;&gt;&lt;span class=&quot;hljs-string&quot;&gt;POST /api/v1/todos/&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/span&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c2746134643-0&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
