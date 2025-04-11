@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="2940" dy="1245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="2928" dy="1245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1491,8 +1491,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLYka26xXfPDS_lefrwr-159" value="apiary and hive names will be needed any way in the filters so will not include them in the response to reduce any redundancy.&lt;br&gt;suggested solution create a map of apiary_ids and hive_ids to their names " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="591" y="8796" width="480" height="70" as="geometry" />
+        <mxCell id="bLYka26xXfPDS_lefrwr-159" value="apiary and hive names will be needed any way in the filters so will not include them in the response to reduce any redundancy.&lt;br&gt;suggested solution create a map of apiary_ids and hive_ids to their names " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="591" y="8786" width="390" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
