@@ -1427,7 +1427,7 @@
         <mxCell id="bLYka26xXfPDS_lefrwr-122" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="bLYka26xXfPDS_lefrwr-84" target="bLYka26xXfPDS_lefrwr-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2300" y="2020" />
+              <mxPoint x="-2298" y="2018" />
               <mxPoint x="-2300" y="1700" />
             </Array>
           </mxGeometry>
