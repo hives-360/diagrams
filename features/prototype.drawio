@@ -1571,7 +1571,7 @@
           <mxGeometry x="-1200.5" y="11977" width="204.98" height="70.33" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-184" value="&lt;div&gt;GET /api/v1/todos?&lt;/div&gt;&lt;div&gt;from_date=2025-01-01&amp;amp;&lt;/div&gt;&lt;div&gt;to_date=2025-01-02&amp;amp;&lt;/div&gt;&lt;div&gt;status=OPEN&amp;amp;&lt;/div&gt;&lt;div&gt;order_by=datetime&amp;amp;&lt;/div&gt;&lt;div&gt;order_type=ASC/DESC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="598.51" y="8579" width="268.49" height="98" as="geometry" />
+          <mxGeometry x="598.51" y="8579" width="304.49" height="98" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-186" value="&lt;div&gt;query param dates are both inclusive&lt;/div&gt;&lt;div&gt;order_by=datetime and order_type=DESC is the defaults&lt;/div&gt;&lt;div&gt;no pagination needed for now&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="575.76" y="10618" width="262.49" height="59" as="geometry" />
