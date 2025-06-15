@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.5">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="4095" dy="1381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="5282" dy="2068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1862,6 +1862,16 @@
         </mxCell>
         <mxCell id="5jPmkZ7dNEO_UO8ZXN-R-80" value="{&lt;br&gt;&amp;nbsp; &quot;product&quot;: {&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 1,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;Organic Honey&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;attachment_id&quot;: 123,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;price&quot;: 25.99,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;price_unit&quot;: &quot;USD&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;product_batches&quot;: [&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 1,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;batch_number&quot;: &quot;BATCH001&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;batch_count&quot;: 50,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;batch_unit&quot;: &quot;jars&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;note&quot;: &quot;First batch of spring honey&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;datetime_of_production&quot;: &quot;2024-03-15T10:30:00Z&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;datetime_of_expiration&quot;: &quot;2026-03-15T10:30:00Z&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; ]&lt;br&gt;&amp;nbsp; }&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1203.01" y="13763" width="388" height="477" as="geometry" />
+        </mxCell>
+        <mxCell id="5jPmkZ7dNEO_UO8ZXN-R-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5jPmkZ7dNEO_UO8ZXN-R-8" target="hY19iie7GWyc48UbzqRv-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="192" y="1927" />
+              <mxPoint x="192" y="1206" />
+              <mxPoint x="-902" y="1206" />
+              <mxPoint x="-902" y="1367" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
