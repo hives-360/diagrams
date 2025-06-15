@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.5">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="4201" dy="1443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="4617" dy="1683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#F2F2F2" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1914,6 +1914,15 @@
         </mxCell>
         <mxCell id="5jPmkZ7dNEO_UO8ZXN-R-97" value="{&lt;br&gt;&lt;div&gt;&amp;nbsp; &quot;message&quot;: &quot;SUCCESS&quot;&lt;/div&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="634" y="13798" width="388" height="477" as="geometry" />
+        </mxCell>
+        <mxCell id="5jPmkZ7dNEO_UO8ZXN-R-100" value="GET /api/v1/users/&amp;lt;int:user_id&amp;gt;/products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1446" y="13116" width="393" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5jPmkZ7dNEO_UO8ZXN-R-101" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1458.49" y="13744" width="99" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5jPmkZ7dNEO_UO8ZXN-R-102" value="{&lt;br&gt;&lt;div&gt;&amp;nbsp; &quot;products&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 123,&lt;/div&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;Organic Honey&quot;,&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;attachment&quot;: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;url&quot;: &quot;https://www.google.com&quot;,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;alt_text&quot;: &quot;asdasd&quot;},&lt;/div&gt;&amp;nbsp; &amp;nbsp; &quot;price&quot;: 25.99,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;price_unit&quot;: &quot;USD&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;product_batches&quot;: [&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;id&quot;: 123,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;number&quot;: 1,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;deleted&quot;: true,&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;amount&quot;: 50,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;unit&quot;: &quot;KG&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;note&quot;: &quot;First batch of spring honey&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;datetime_of_production&quot;: &quot;2024-03-15T10:30:00Z&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;datetime_of_expiration&quot;: &quot;2026-03-15T10:30:00Z&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; ]&lt;br&gt;&amp;nbsp; }]&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=16;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1459.99" y="13810" width="388" height="477" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
