@@ -1374,7 +1374,7 @@
           <mxGeometry x="611" y="8931" width="388" height="379" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-138" value="&lt;div&gt;query param dates are both inclusive&lt;/div&gt;&lt;div&gt;order_by=datetime and order_type=DESC is the defaults&lt;/div&gt;&lt;div&gt;no pagination needed for now&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="598.51" y="8693" width="262.49" height="59" as="geometry" />
+          <mxGeometry x="602" y="8693" width="262.49" height="59" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-141" value="Req" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-1215.5" y="10610" width="51" height="34" as="geometry" />
@@ -1416,7 +1416,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-159" value="apiary and hive names will be needed any way in the filters so will not include them in the response to reduce any redundancy.&lt;br&gt;suggested solution create a map of apiary_ids and hive_ids to their names " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="591" y="8786" width="408" height="82" as="geometry" />
+          <mxGeometry x="598.51" y="8786" width="408" height="82" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-160" value="&lt;div&gt;GET /api/v1/statuses?&lt;/div&gt;&lt;div&gt;from_date=2025-01-01&amp;amp;&lt;/div&gt;&lt;div&gt;to_date=2025-01-02&amp;amp;&lt;/div&gt;&lt;div&gt;order_by=datetime&amp;amp;&lt;/div&gt;&lt;div&gt;order_type=ASC/DESC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="568" y="10497" width="278" height="98" as="geometry" />
