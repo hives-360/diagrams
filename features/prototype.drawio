@@ -1365,7 +1365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-133" value="&lt;div&gt;to make the flow simple data wise,&amp;nbsp;&lt;/div&gt;&lt;div&gt;1- delete any todo after today&lt;/div&gt;&lt;div&gt;2- delete todo template&lt;/div&gt;&lt;div&gt;3- create new todo template with the new data&lt;/div&gt;&lt;div&gt;4- create todo for the next 2 months from today and return the new id&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-491" y="8730" width="423" height="81" as="geometry" />
+          <mxGeometry x="-491" y="8730" width="423" height="99" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-136" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="602" y="8882" width="99" height="34" as="geometry" />
