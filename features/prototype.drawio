@@ -1416,7 +1416,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-159" value="apiary and hive names will be needed any way in the filters so will not include them in the response to reduce any redundancy.&lt;br&gt;suggested solution create a map of apiary_ids and hive_ids to their names " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="591" y="8786" width="332" height="68" as="geometry" />
+          <mxGeometry x="591" y="8786" width="408" height="82" as="geometry" />
         </mxCell>
         <mxCell id="bLYka26xXfPDS_lefrwr-160" value="&lt;div&gt;GET /api/v1/statuses?&lt;/div&gt;&lt;div&gt;from_date=2025-01-01&amp;amp;&lt;/div&gt;&lt;div&gt;to_date=2025-01-02&amp;amp;&lt;/div&gt;&lt;div&gt;order_by=datetime&amp;amp;&lt;/div&gt;&lt;div&gt;order_type=ASC/DESC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="568" y="10497" width="278" height="98" as="geometry" />
